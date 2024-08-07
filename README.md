@@ -100,27 +100,4 @@ Venturo é um sistema ERP (Enterprise Resource Planning) desenvolvido pela equip
 - **Sistema de E-mail entre Usuários**: Comunicação entre funcionários da empresa.
 - **Comunicação Direta com o Suporte**: Envio de mensagens diretamente para a equipe Venturo.
 
-## Prazos e Sprints
-### Sprint 1: Planejamento e Protótipo
-- **Período**: 05/06/2024 – 20/07/2024
-- **Atividades**: Planejamento do projeto, estudo e pesquisa de ORM’s, desenvolvimento de protótipo, entre outras atividades.
 
-### Sprint 2: Desenvolvimento e Segurança
-- **Período**: 22/07/2024 – 19/10/2024
-- **Atividades**: Desenvolvimento contínuo do sistema, implementação de funções de exportação, práticas de segurança, entre outras atividades.
-
-### Sprint 3: Finalização e Testes
-- **Período**: 23/10/2024 – 27/11/2024
-- **Atividades**: Complementação do sistema, revisão e correção, testes de software, preparação para apresentações.
-
-### Sprint-Review: Entrega e Apresentação
-- **Período**: 27/11/2024 – 11/12/2024
-- **Atividades**: Testes finais, finalização dos preparativos para a apresentação, entrega do projeto e da documentação, apresentação do projeto.
-
-## Indicadores de Sucesso
-- **Funcionalidade Completa**: Todas as funcionalidades principais implementadas e funcionando conforme especificado.
-- **Desempenho**: Operação rápida e eficiente sob carga de uso prevista.
-- **Segurança**: Implementação bem-sucedida de práticas de segurança sem incidentes durante os testes.
-- **Usabilidade**: Feedback positivo dos usuários sobre a facilidade de uso e interface do sistema.
-- **Entrega no Prazo**: Cumprimento dos prazos definidos nas sprints e entrega final conforme o cronograma.
-- **Satisfação do Cliente**: Alta satisfação dos clientes empresariais durante a fase de testes e implementação.
