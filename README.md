@@ -1,4 +1,8 @@
-# Venturo ERP <img src ="/177353242.png"/>
+
+<img src ="/177353242.png"/>
+
+# Venturo ERP 
+
 
 ## Integrantes
 - **Guilherme Veiga Pedromilo**: Product Owner (PO) e Back-end
