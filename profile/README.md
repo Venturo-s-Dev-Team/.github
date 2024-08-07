@@ -1,5 +1,5 @@
 
-<img src ="/177353242.png"/>
+<img src ="../177353242.png"/>
 
 # Venturo ERP 
 
