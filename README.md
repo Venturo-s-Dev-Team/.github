@@ -1,13 +1,10 @@
 # Venturo ERP
 
 ## Integrantes
-- João Pedro A. Teixeira
-- Isabela Teixeira dos Santos
-- Guilherme Veiga Pedromilo
-- Caio Felipe Vieira Ferreira
-
-## Data
-31/07/2024
+- **Guilherme Veiga Pedromilo**: Product Owner (PO) e Back-end
+- **Isabela Teixeira dos Santos**: Front-end
+- **Caio Felipe Vieira Ferreira**: Front-end
+- **João Pedro Araújo Teixeira**: Full-Stack
 
 ## Objetivo
 Venturo é um sistema ERP (Enterprise Resource Planning) desenvolvido pela equipe Venturo's, projetado como um sistema SAAS (Software como Serviço) Multi-Tenant com Multi-Schemas. O objetivo do Venturo é oferecer uma solução abrangente de gestão empresarial, melhorando a eficiência e produtividade das empresas por meio do controle de estoque, vendas, financeiro e gestão de funcionários.
@@ -24,12 +21,6 @@ Venturo é um sistema ERP (Enterprise Resource Planning) desenvolvido pela equip
 
 ### 3. Outros Perfis em Definição
 - Detalhes sobre outros perfis serão definidos posteriormente.
-
-## Atribuições da Equipe
-- **Guilherme Veiga Pedromilo**: Product Owner (PO) e Back-end
-- **Isabela Teixeira dos Santos**: Front-end
-- **Caio Felipe Vieira Ferreira**: Front-end
-- **João Pedro Araújo Teixeira**: Full-Stack
 
 ## Frameworks
 - Docker
