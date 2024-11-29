@@ -64,10 +64,6 @@ Venturo é um sistema ERP (Enterprise Resource Planning) desenvolvido pela equip
 - **Balancete**: Visualização do balancete contábil, com filtros por período.
 - **DRE (Demonstração do Resultado do Exercício)**: Visualização da DRE e comparação de períodos.
 
-### Impostos
-- **Cadastro de Impostos**: Registro e gestão de diferentes tipos de impostos.
-- **Cálculos de Impostos**: ICMS, IPI, PIS, COFINS, IRPJ, ISS, CSLL.
-
 ### Contas a Pagar
 - **Cadastro de Fornecedores**: Registro de informações sobre fornecedores.
 - **Lançamento de Despesas**: Registro de despesas no sistema.
