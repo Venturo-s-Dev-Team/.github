@@ -58,11 +58,7 @@ Venturo é um sistema ERP (Enterprise Resource Planning) desenvolvido pela equip
 
 ## Funcionalidades
 ### Plano de Contas
-- **Cadastro de Contas**: Registro de novas contas contábeis no sistema.
-- **Hierarquia de Contas**: Define a estrutura hierárquica das contas.
 - **Razão**: Consulta detalhada da razão contábil.
-- **Balancete**: Visualização do balancete contábil, com filtros por período.
-- **DRE (Demonstração do Resultado do Exercício)**: Visualização da DRE e comparação de períodos.
 
 ### Contas a Pagar
 - **Cadastro de Fornecedores**: Registro de informações sobre fornecedores.
